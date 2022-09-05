@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @devyuni
-- 👀 I’m interested in frontend development
+- 👀 I’m interested in front-end development
 - 🌱 I’m currently learning HTML/CSS/JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
