@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @devyuni
 - 👀 I’m interested in front-end development
 - 🌱 I’m currently learning HTML/CSS/JS
+
+<!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+--->
 
 <!---
 devyuni/devyuni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
